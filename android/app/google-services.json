@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "996613057267",
+    "project_id": "communitymvp-778fd",
+    "storage_bucket": "communitymvp-778fd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996613057267:android:abe25e88a08c439ff32586",
+        "android_client_info": {
+          "package_name": "com.community_mvp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqZVuvyBkBFY_9txTmLjqzFlmOQqW-_5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
